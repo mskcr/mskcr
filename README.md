@@ -1,8 +1,8 @@
 ### Hi there 👋
-Frontend Developer • I am working on React Developer.<br><br>
-I am always open to learning and I like to follow the developments in the world of technology.<br><br>
+Frontend Developer • I am working on React Developer.<br>
+I am always open to learning and I like to follow the developments in the world of technology.<br>
 I attach importance to teamwork and make sure to keep myself constantly updated.<br>
-I develop various projects on GitHub, you can find them on my profile.<br><br>
+I develop various projects on GitHub, you can find them on my profile.<br>
 
 
 ## 🌐 Socials:
